@@ -1,0 +1,19 @@
+logrotate state -- version 2
+"/home/ditiss/.cache/upstart/session-migration.log" 2019-11-28-5:58:46
+"/home/ditiss/.cache/upstart/indicator-datetime.log" 2019-11-29-1:18:53
+"/home/ditiss/.cache/upstart/unity-panel-service.log" 2019-11-29-1:18:53
+"/home/ditiss/.cache/upstart/ssh-agent.log" 2019-11-29-1:18:53
+"/home/ditiss/.cache/upstart/bamfdaemon.log" 2019-11-28-23:59:39
+"/home/ditiss/.cache/upstart/gnome-keyring-ssh.log" 2019-11-29-1:18:53
+"/home/ditiss/.cache/upstart/indicator-sound.log" 2019-11-29-1:18:53
+"/home/ditiss/.cache/upstart/gpg-agent.log" 2019-11-29-1:18:53
+"/home/ditiss/.cache/upstart/update-notifier-release.log" 2019-11-29-1:18:53
+"/home/ditiss/.cache/upstart/indicator-keyboard.log" 2019-11-29-0:3:2
+"/home/ditiss/.cache/upstart/upstart-event-bridge.log" 2019-11-29-1:18:53
+"/home/ditiss/.cache/upstart/window-stack-bridge.log" 2019-11-29-1:18:53
+"/home/ditiss/.cache/upstart/unity-settings-daemon.log" 2019-11-29-1:18:53
+"/home/ditiss/.cache/upstart/hud.log" 2019-11-29-1:22:25
+"/home/ditiss/.cache/upstart/unity7.log" 2019-11-29-1:18:53
+"/home/ditiss/.cache/upstart/at-spi2-registryd.log" 2019-11-28-5:58:46
+"/home/ditiss/.cache/upstart/update-notifier-crash-_var_crash__usr_lib_xorg_Xorg.0.crash.log" 2019-11-29-1:18:53
+"/home/ditiss/.cache/upstart/dbus.log" 2019-11-29-1:18:53
