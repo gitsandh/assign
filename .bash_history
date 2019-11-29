@@ -47,3 +47,43 @@ service networking restart
 ip a
 init 6
 sudo init 6
+ip a
+git init
+sudo nano 1.py
+git add .
+git status
+git commit -m .
+git config user.name origin
+git config user.email origin@gmail.com
+git commit -m .
+git status
+git remote add origin1 https://github.com/gitsandh/docker
+git push origin1 master
+git branch
+git branch t1
+git branch t2
+git push origin1 master
+git remote add origin1 https://github.com/gitsandh/docker.git
+git remote add origin15 https://github.com/gitsandh/docker.git
+git push origin15 master
+git remote add origin1 https://github.com/gitsandh/devops
+git remote add origin11 https://github.com/gitsandh/devops
+git push origin11 master
+git branch
+git push origin11 t1
+git remote add origin20 https://github.com/gitsandh/devops
+git remote add origin20 https://github.com/gitsandh/jenkins
+git remote add origin10 https://github.com/gitsandh/jenkins
+git push origin10 t1
+git push origin10 master
+cd /etc/ansible/
+ls
+git status
+git branch
+cd ~
+git branch
+
+ip a
+service networking restart 
+ip a
+sudo init 6
